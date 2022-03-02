@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnabAdhikar
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and machine learning
 - 🌱 I’m currently learning c,c++ and python
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me phone no= 8900779272
