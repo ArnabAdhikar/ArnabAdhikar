@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c,c++ and python
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me phone no= 8900779272
-
+- LinkedIn Link: https://www.linkedin.com/in/arnab-adhikary-5bb65a209/
 <!---
 ArnabAdhikar/ArnabAdhikary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
