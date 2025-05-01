@@ -30,6 +30,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=ArnabAdhikar&icon=0&color=6)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=ArnabAdhikar)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 ArnabAdhikar/ArnabAdhikary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
